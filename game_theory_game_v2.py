@@ -2,7 +2,7 @@ import random
 from time import sleep
 
 #background objects/functions
-congratulations_set = ("Well done!", "Bravo!", "Nice work!")
+congratulations_set = ("Well done!", "Bravo!", "Nice work!","Kudos to you!")
 def player_input():
     player_input = input("Enter a number between 1 and 10 here: ")
     while player_input != '1' and \
